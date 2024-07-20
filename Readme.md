@@ -1,11 +1,11 @@
-# Cacophony Piano<<>>
+# Cacophony Piano
 
 En el siguiente proyecto, Muestra el diseño de un piano web creado con Tailwind CSS.
 
 
 Link del proyecto:
 
-https://cv-johncespedes.netlify.app<>
+https://cv-johncespedes.netlify.app
 
 
 
