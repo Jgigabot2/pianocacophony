@@ -1,0 +1,48 @@
+.whitekey:hover {
+    background-color: #e0e0e0; 
+    border-color: #b0b0b0;     
+    cursor: pointer;           
+}
+
+/* CSS para teclas negras */
+.blackkey:hover {
+    background-color: #333333; 
+    border-color: #000000;     
+    cursor: pointer;           
+}
+
+.whitekey:active {
+    background-color: #d1d5db;
+    border-color: #6b7280;
+}
+
+/* CSS para teclas negras */
+.blackkey:active {
+    background-color: #374151;
+}
+
+.imperial-script-regular {
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .bona-nova-sc-regular {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bona-nova-sc-bold {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .bona-nova-sc-regular-italic {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+ 
