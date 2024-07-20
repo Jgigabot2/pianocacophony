@@ -5,7 +5,7 @@ En el siguiente proyecto, Muestra el diseño de un piano web creado con Tailwind
 
 Link del proyecto:
 
-https://cv-johncespedes.netlify.app
+https://cacophonypiano.netlify.app/src/index.html
 
 
 
